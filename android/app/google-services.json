@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30767448503",
+    "project_id": "flutterbookapp-268b1",
+    "storage_bucket": "flutterbookapp-268b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30767448503:android:ec0de35b765505e1dbe832",
+        "android_client_info": {
+          "package_name": "com.example.library_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0RopfpoD7M7MVwqpCjtCATQbTPQFWaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
